@@ -61,12 +61,14 @@
 .jobs h1{
 	color: white;
 }
-a{
+
+.gray{
 	color: lightgray;
 }
 a:hover{
 	color: gray;
 }
+
 
 .team img{
 	border: 5px solid #191970;
@@ -82,3 +84,9 @@ a:hover{
 .feedback .text-center{
 	align-self: center;
 }
+
+img {
+	display: block;
+    height: auto;
+    max-width: 100%;
+    }
